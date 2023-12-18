@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;title&quot;: &quot;test&quot;,&#10;&quot;year&quot;: &quot;2012&quot;,&#10;&quot;description&quot;: &quot;desc&quot;,&#10;&quot;price&quot;: &quot;99.99&quot;,&#10;&quot;color&quot;: &quot;red&quot;,&#10;  &quot;hack&quot;: &quot;poulet&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="9b8b9312-1839-45ed-84d9-50c37df47624" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8000/products/" />
+            </requestState>
+            <requestState>
+              <option name="id" value="2f3efed0-8684-4aa9-a465-3b64cac15407" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Draft 1" />
+              <option name="url" value="http://localhost:8000/products/65815d84119345e4f25b2c91" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;color&quot;: &quot;blue&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0f6a41b7-3313-4adf-9b32-ad4f2670fdf8" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft 2" />
+              <option name="url" value="http://localhost:8000/products/65815d87a8c9a62fefda772c" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="6579306e-2e2c-4d2c-ad05-f6b5aae5fb3d" />
+  </component>
+</project>

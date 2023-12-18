@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-233.11799.293">
+    <data-source name="Mongo1" uuid="16c835a3-443d-4900-b8a2-a34d5832f20c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>gpulch</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="@cluster0.dup7yct.mongodb.net" uuid="04440a20-ef38-406a-b584-0a6732441dac">
+      <database-info product="Mongo DB" version="6.0.12" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.18" dbms="MONGO" exact-version="6.0.12" exact-driver-version="1.18" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>gpulch</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="@" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
